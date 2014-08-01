@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kili Blog</title><link href="http://help.kili.io/" rel="alternate"></link><link href="http://help.kili.io/feeds/all.rss.xml" rel="self"></link><id>http://help.kili.io/</id><updated>2014-07-31T21:00:00+03:00</updated><entry><title>Kili on Dignited</title><link href="http://help.kili.io/kili_on_dignited.html" rel="alternate"></link><updated>2014-07-31T21:00:00+03:00</updated><author><name>Kili</name></author><id>tag:help.kili.io,2014-07-31:kili_on_dignited.html</id><summary type="html">&lt;p&gt;Dignited, a Ugandan technology blog, talks about the Kili cloud's presence in East Africa, and the advantages of hosting in Africa for Africa.&lt;br&gt;
-Dignited is an online publication that brings you the most original and informed analysis, reviews and opinions on technological developments on the African continent.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.dignited.com/9608/kili-providing-east-africa-based-cloud-hosting-price-faster-load-speeds/" title="Kili article on Dignited"&gt;Here's a link to the article&lt;/a&gt; &lt;/p&gt;</summary><category term="dignited"></category></entry><entry><title>Archives - Kili Blog</title><link href="http://help.kili.io/archives-kili-blog.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:archives-kili-blog.html</id><summary type="html">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kili Blog</title><link>http://help.kili.io/</link><description></description><atom:link href="http://help.kili.io/feeds/kiliio-inc.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 31 Dec 1969 23:59:59 +0300</lastBuildDate><item><title>Archives - Kili Blog</title><link>http://help.kili.io/archives-kili-blog.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -60,7 +58,7 @@ Kili Blog            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="./theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>Articles by James Nzomo - Kili</title><link href="http://help.kili.io/articles-by-james-nzomo-kili.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:articles-by-james-nzomo-kili.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:archives-kili-blog.html</guid></item><item><title>Articles by James Nzomo - Kili</title><link>http://help.kili.io/articles-by-james-nzomo-kili.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -124,7 +122,7 @@ Kili            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>Articles by Kili - Kili Blog</title><link href="http://help.kili.io/articles-by-kili-kili-blog.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:articles-by-kili-kili-blog.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:articles-by-james-nzomo-kili.html</guid></item><item><title>Articles by Kili - Kili Blog</title><link>http://help.kili.io/articles-by-kili-kili-blog.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -182,7 +180,7 @@ Kili Blog            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>Articles by Pranav Salunke (dguitarbite) - Kili</title><link href="http://help.kili.io/articles-by-pranav-salunke-dguitarbite-kili.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:articles-by-pranav-salunke-dguitarbite-kili.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:articles-by-kili-kili-blog.html</guid></item><item><title>Articles by Pranav Salunke (dguitarbite) - Kili</title><link>http://help.kili.io/articles-by-pranav-salunke-dguitarbite-kili.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -240,7 +238,7 @@ Kili            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>Authors - Kili Blog</title><link href="http://help.kili.io/authors-kili-blog.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:authors-kili-blog.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:articles-by-pranav-salunke-dguitarbite-kili.html</guid></item><item><title>Authors - Kili Blog</title><link>http://help.kili.io/authors-kili-blog.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -293,7 +291,7 @@ Kili Blog            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="./theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>{% block title %}{{ SITENAME }}{% endblock %}</title><link href="http://help.kili.io/block-title-sitename-endblock.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:block-title-sitename-endblock.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:authors-kili-blog.html</guid></item><item><title>{% block title %}{{ SITENAME }}{% endblock %}</title><link>http://help.kili.io/block-title-sitename-endblock.html</link><description>
 
 &lt;div class="navbar {% if BOOTSTRAP_NAVBAR_INVERSE %}navbar-inverse{% else %}navbar-default{% endif %} navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -378,7 +376,7 @@ Kili Blog            &lt;/a&gt;
 {% include 'includes/disqus_script.html' %}
 {% include 'includes/ga.html' %}
 {% include 'includes/piwik.html' %}
-</summary></entry><entry><title>Categories - Kili Blog</title><link href="http://help.kili.io/categories-kili-blog.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:categories-kili-blog.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:block-title-sitename-endblock.html</guid></item><item><title>Categories - Kili Blog</title><link>http://help.kili.io/categories-kili-blog.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -447,7 +445,7 @@ Kili Blog            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="./theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>CLI - Kili</title><link href="http://help.kili.io/cli-kili.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:cli-kili.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:categories-kili-blog.html</guid></item><item><title>CLI - Kili</title><link>http://help.kili.io/cli-kili.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -505,7 +503,7 @@ Kili            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>dignited - Kili Blog</title><link href="http://help.kili.io/dignited-kili-blog.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:dignited-kili-blog.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:cli-kili.html</guid></item><item><title>dignited - Kili Blog</title><link>http://help.kili.io/dignited-kili-blog.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -563,7 +561,7 @@ Kili Blog            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>how to - Kili</title><link href="http://help.kili.io/how-to-kili.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:how-to-kili.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:dignited-kili-blog.html</guid></item><item><title>how to - Kili</title><link>http://help.kili.io/how-to-kili.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -627,7 +625,7 @@ Kili            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>Importing keypairs - Kili</title><link href="http://help.kili.io/importing-keypairs-kili.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:importing-keypairs-kili.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:how-to-kili.html</guid></item><item><title>Importing keypairs - Kili</title><link>http://help.kili.io/importing-keypairs-kili.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -757,7 +755,7 @@ This article will illustrate how to generate SSH Keys and import the resultant p
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="./theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>instances - Kili</title><link href="http://help.kili.io/instances-kili.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:instances-kili.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:importing-keypairs-kili.html</guid></item><item><title>instances - Kili</title><link>http://help.kili.io/instances-kili.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -827,7 +825,7 @@ Kili            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>Kili Blog</title><link href="http://help.kili.io/kili-blog.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:kili-blog.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:instances-kili.html</guid></item><item><title>Kili Blog</title><link>http://help.kili.io/kili-blog.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -885,7 +883,7 @@ Kili Blog            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="./theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>Kili on Dignited - Kili Blog</title><link href="http://help.kili.io/kili-on-dignited-kili-blog.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:kili-on-dignited-kili-blog.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:kili-blog.html</guid></item><item><title>Kili on Dignited - Kili Blog</title><link>http://help.kili.io/kili-on-dignited-kili-blog.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -969,7 +967,7 @@ Dignited is an online publication that brings you the most original and informed
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="./theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>Launching an Instance - Kili</title><link href="http://help.kili.io/launching-an-instance-kili.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:launching-an-instance-kili.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:kili-on-dignited-kili-blog.html</guid></item><item><title>Launching an Instance - Kili</title><link>http://help.kili.io/launching-an-instance-kili.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -1125,7 +1123,7 @@ An Ephemeral instance is the direct opposite of a Persistent instance. It's root
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="./theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>launching - Kili</title><link href="http://help.kili.io/launching-kili.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:launching-kili.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:launching-an-instance-kili.html</guid></item><item><title>launching - Kili</title><link>http://help.kili.io/launching-kili.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -1195,7 +1193,7 @@ Kili            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>misc - Kili Blog</title><link href="http://help.kili.io/misc-kili-blog.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:misc-kili-blog.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:launching-kili.html</guid></item><item><title>misc - Kili Blog</title><link>http://help.kili.io/misc-kili-blog.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -1253,7 +1251,7 @@ Kili Blog            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>Setting up Command Line Tools - Kili</title><link href="http://help.kili.io/setting-up-command-line-tools-kili.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:setting-up-command-line-tools-kili.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:misc-kili-blog.html</guid></item><item><title>Setting up Command Line Tools - Kili</title><link>http://help.kili.io/setting-up-command-line-tools-kili.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -1575,7 +1573,7 @@ Launch your terminal and follow the steps:&lt;ul&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="./theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry><entry><title>Tags - Kili Blog</title><link href="http://help.kili.io/tags-kili-blog.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:tags-kili-blog.html</id><summary type="html">
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:setting-up-command-line-tools-kili.html</guid></item><item><title>Tags - Kili Blog</title><link>http://help.kili.io/tags-kili-blog.html</link><description>
 
 &lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
     &lt;div class="container"&gt;
@@ -1643,4 +1641,4 @@ Kili Blog            &lt;/a&gt;
 &lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
 &lt;script src="./theme/js/respond.min.js"&gt;&lt;/script&gt;
 
-</summary></entry></feed>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kili.io, Inc</dc:creator><pubDate>Wed, 31 Dec 1969 23:59:59 +0300</pubDate><guid>tag:help.kili.io,1969-12-31:tags-kili-blog.html</guid></item></channel></rss>

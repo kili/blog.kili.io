@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kili Blog</title><link href="http://help.kili.io/" rel="alternate"></link><link href="http://help.kili.io/feeds/category.rss.xml" rel="self"></link><id>http://help.kili.io/</id><updated>1969-12-31T23:59:59+03:00</updated><entry><title>misc - Kili Blog</title><link href="http://help.kili.io/misc-kili-blog.html" rel="alternate"></link><updated>1969-12-31T23:59:59+03:00</updated><author><name>Kili.io, Inc</name></author><id>tag:help.kili.io,1969-12-31:misc-kili-blog.html</id><summary type="html">
+
+&lt;div class="navbar navbar-default navbar-fixed-top" role="navigation"&gt;
+    &lt;div class="container"&gt;
+        &lt;div class="navbar-header"&gt;
+            &lt;button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"&gt;
+                &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+                &lt;span class="icon-bar"&gt;&lt;/span&gt;
+            &lt;/button&gt;
+            &lt;a href="../" class="navbar-brand"&gt;
+Kili Blog            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class="collapse navbar-collapse navbar-ex1-collapse"&gt;
+            &lt;ul class="nav navbar-nav"&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;!-- /.navbar-collapse --&gt;
+    &lt;/div&gt;
+&lt;/div&gt; &lt;!-- /.navbar --&gt;
+
+&lt;div class="container"&gt;
+    &lt;div class="row"&gt;
+        &lt;div class="col-lg-12"&gt;
+
+            &lt;article&gt;
+                &lt;h2&gt;&lt;a href="../kili_on_dignited.html"&gt;Kili on Dignited&lt;/a&gt;&lt;/h2&gt;
+                &lt;div class="summary"&gt;&lt;p&gt;Kili Cloud featured in Dignited.&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/article&gt;
+            &lt;hr /&gt;
+
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;footer&gt;
+   &lt;div class="container"&gt;
+      &lt;hr&gt;
+      &lt;div class="row"&gt;
+	 &lt;div class="col-xs-10"&gt;  
+		 &amp;copy; 2014 Kili.io, Inc &amp;#9729; 
+		 &lt;a href="http://kili.io/#pricing"&gt;Pricing&lt;/a&gt; &amp;#9729;
+		 &lt;a href="https://dash.kili.io"&gt;Dashboard&lt;/a&gt; &amp;#9729;
+		 &lt;a href="https://github.com/kili/help.kili.io"&gt;Write an Article&lt;/a&gt; 
+	 &lt;/div&gt;
+	 &lt;/div&gt;
+      &lt;/div&gt;
+   &lt;/div&gt;
+&lt;/footer&gt;
+&lt;script src="../theme/js/jquery.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Include all compiled plugins (below), or include individual files as needed --&gt;
+&lt;script src="../theme/js/bootstrap.min.js"&gt;&lt;/script&gt;
+
+&lt;!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) --&gt;
+&lt;script src="../theme/js/respond.min.js"&gt;&lt;/script&gt;
+
+</summary></entry></feed>
